@@ -7,6 +7,7 @@ public class Player {
 
     }
     public void run(){
+
         System.out.println("Running away from the police");
     }
 
