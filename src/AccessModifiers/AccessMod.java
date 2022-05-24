@@ -10,5 +10,8 @@ public class AccessMod {
 
         ishu.setName("Ishwar Chaudhary");
         System.out.println(ishu.getName());
+
+        ishu.setId(01);
+        System.out.println(ishu.getId());
     }
 }
