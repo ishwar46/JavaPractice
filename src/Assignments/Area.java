@@ -13,11 +13,11 @@ public class Area {
 
     int length;
     int breadth;
+
     int width;
 
-    public int setDim(){
+    public void setDim(int length, int breadth){
 
-        return length*breadth;
     }
 
     public int getArea(){
@@ -35,6 +35,7 @@ public class Area {
         breadth = 3;
 
     }
+
 
 
 

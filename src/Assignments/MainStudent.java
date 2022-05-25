@@ -8,7 +8,7 @@ public class MainStudent {
         Student Sam = new Student();
 
         John.name = "John Hero";
-        John.rollno = 01;
+        John.rollno = 02;
 
         Sam.name = "Sam";
         Sam.rollno = 12;

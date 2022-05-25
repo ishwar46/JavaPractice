@@ -15,6 +15,7 @@ public class Main_Area {
 
         rect.setBreadth();
         rect.setLength();
+        //rect.setDim();
 
 
         System.out.println("Area of rectangle is: " +rect.getArea());
