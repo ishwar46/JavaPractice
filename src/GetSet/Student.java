@@ -12,7 +12,6 @@ public class Student {
 
     public String getName(){
         return name;
-
     }
 
     public String getPhone(){
@@ -43,6 +42,8 @@ public class Student {
     void setEmail(String email){
         this.email=email;
     }
+
+
 
 
 }
